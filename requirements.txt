@@ -1,6 +1,6 @@
-# Dépendances Python pour le bot Discord Gearted - Optimisé Render
+# Dépendances Python pour le bot Discord Gearted - Python 3.10 Compatible
 discord.py==2.3.2
-flask==3.0.0
+flask==2.3.3
 requests==2.31.0
 python-dotenv==1.0.0
-# Dependencies will be resolved automatically by discord.py
+# Compatibilité Python 3.10 optimisée
