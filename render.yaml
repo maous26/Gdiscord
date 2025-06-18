@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: gearted-discord-bot
+    env: python
+    plan: starter
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: GUILD_ID
+        value: "1381740173234274364"
+      - key: PORT
+        value: "10000"
+    autoDeploy: true
+    healthCheckPath: /health

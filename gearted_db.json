@@ -1,0 +1,257 @@
+{
+  "users": {
+    "1380446165996277810": {
+      "total_xp": 2660,
+      "contributions": {
+        "beta": 1,
+        "bugs": 11,
+        "features": 1,
+        "feedback": 1
+      },
+      "history": [
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:38:42.569621",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:39:23.529677",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:42:52.247266",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:42:52.267085",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:43:39.024738",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:48:22.065281",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:49:26.538334",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T13:54:26.653549",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T14:01:36.803169",
+          "auto": true
+        },
+        {
+          "type": "feature",
+          "xp": 100,
+          "date": "2025-06-11T14:05:41.045689",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T14:06:09.133544",
+          "auto": true
+        },
+        {
+          "type": "bug",
+          "xp": 200,
+          "date": "2025-06-11T14:08:35.458393",
+          "auto": true
+        },
+        {
+          "type": "feedback",
+          "xp": 300,
+          "date": "2025-06-11T14:15:04.482095",
+          "auto": true
+        },
+        {
+          "type": "beta",
+          "xp": 50,
+          "date": "2025-06-11T14:16:48.419608",
+          "auto": true
+        }
+      ],
+      "linked_username": "67garnement",
+      "created_at": "2025-06-11T12:20:43.270365"
+    },
+    "528723920656924672": {
+      "total_xp": 10,
+      "contributions": {
+        "beta": 0,
+        "bugs": 0,
+        "features": 0,
+        "feedback": 0
+      },
+      "history": [],
+      "linked_username": "moussinho.",
+      "created_at": "2025-06-11T13:32:47.367173"
+    }
+  },
+  "pending_claims": {
+    "test_user_diagnostic_bug_1749642841.122852": {
+      "username": "test_user_diagnostic",
+      "form_type": "bug",
+      "xp_amount": 200,
+      "created_at": "2025-06-11T13:54:01.122878",
+      "message_link": "https://discord.com/channels/1381740173234274364/1381904718938247168/1382327007303565352"
+    },
+    "sdfsdf_bug_1749643827.328526": {
+      "username": "sdfsdf",
+      "form_type": "bug",
+      "xp_amount": 200,
+      "created_at": "2025-06-11T14:10:27.328587",
+      "message_link": "https://discord.com/channels/1381740173234274364/1381904718938247168/1382331144229617705"
+    },
+    "sdfsdf_bug_1749643827.332565": {
+      "username": "sdfsdf",
+      "form_type": "bug",
+      "xp_amount": 200,
+      "created_at": "2025-06-11T14:10:27.332599",
+      "message_link": "https://discord.com/channels/1381740173234274364/1381904718938247168/1382331144229617705"
+    },
+    "wxvsdvf_bug_1749654048.392565": {
+      "username": "wxvsdvf",
+      "form_type": "bug",
+      "xp_amount": 200,
+      "created_at": "2025-06-11T17:00:48.392617",
+      "message_link": "https://discord.com/channels/1381740173234274364/1381904718938247168/1382374014273589470"
+    },
+    "wxvsdvf_bug_1749654107.804129": {
+      "username": "wxvsdvf",
+      "form_type": "bug",
+      "xp_amount": 200,
+      "created_at": "2025-06-11T17:01:47.804142",
+      "message_link": "https://discord.com/channels/1381740173234274364/1381904718938247168/1382374014273589470"
+    },
+    "wxvsdvf_bug_1749654112.323842": {
+      "username": "wxvsdvf",
+      "form_type": "bug",
+      "xp_amount": 200,
+      "created_at": "2025-06-11T17:01:52.323862",
+      "message_link": "https://discord.com/channels/1381740173234274364/1381904718938247168/1382374014273589470"
+    }
+  },
+  "contribution_log": [
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:38:42.569647"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:39:23.529700"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:42:52.247281"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:42:52.267100"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:43:39.024765"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:48:22.065300"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:49:26.538355"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T13:54:26.653563"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T14:01:36.803190"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "feature",
+      "xp": 100,
+      "date": "2025-06-11T14:05:41.045736"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T14:06:09.133566"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "bug",
+      "xp": 200,
+      "date": "2025-06-11T14:08:35.458412"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "feedback",
+      "xp": 300,
+      "date": "2025-06-11T14:15:04.482112"
+    },
+    {
+      "user_id": "1380446165996277810",
+      "username": "67garnement",
+      "type": "beta",
+      "xp": 50,
+      "date": "2025-06-11T14:16:48.419627"
+    }
+  ]
+}

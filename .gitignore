@@ -1,0 +1,61 @@
+# Fichiers sensibles
+*.env
+.env.local
+.env.production
+config.json
+gearted_discord_config.json
+
+# Fichiers Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Base de données locale (facultatif - peut être commitée pour les données initiales)
+# gearted_db.json
+
+# Fichiers macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Fichiers de logs
+*.log
+moderation_setup.log
+
+# Répertoires de test et development
+test-scripts/
+archive/
+active-scripts/
+replit-deployment/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Documentation générée automatiquement
+docs/generated/
