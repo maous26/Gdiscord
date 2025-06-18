@@ -12,5 +12,11 @@ services:
         value: "1381740173234274364"
       - key: PORT
         value: "10000"
+      - key: PYTHON_VERSION
+        value: "3.11.0"
     autoDeploy: true
     healthCheckPath: /health
+    disk:
+      name: gearted-data
+      size: 1
+      mount: /opt/render/project/data
